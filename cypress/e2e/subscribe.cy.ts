@@ -1,3 +1,4 @@
+// @ts-ignore
 describe("Newsletter Subscribe Form", () => {
   beforeEach(() => {
     cy.visit("http://localhost:3000")
